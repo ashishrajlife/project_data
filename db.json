@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "email": "user@example.com",
-      "password": "password123",
-      "authToken": "drtyuhgvcfgtyujIUYHUYUI/56789hgfyujhb"
+      "email": "ashish@gmail.com",
+      "password": "1234",
+      "authToken": "ABCDabcd12345678XyzPrTYY"
     }
   ],
   "invoices": []
